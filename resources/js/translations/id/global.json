@@ -1,0 +1,60 @@
+{
+    "header": {
+        "category": {
+        "news": "Berita",
+            "program": "Program",
+            "inspiration": "Inspirasi",
+            "education": "Edukasi",
+            "partner": "Mitra",
+            "service": "Layanan"
+        },
+        "rightSide": {
+            "language": "Bahasa",
+            "searchLabel": "Cari Postingan",
+            "searchPlaceholder": "Ketuk untuk mencari...",
+            "searchButton": "Cari"
+        }
+    },
+    "main": {
+        "posts": {
+            "sectionFeaturedPosts": "Postingan Unggulan",
+            "sectionTodayHighlight": "Sorotan Hari Ini",
+            "sectionLatestPosts": "Postingan Terbaru"
+        },
+        "post": {
+            "sectionRelatedPosts": "Postingan Terkait"
+        },
+        "magazines": {
+            "list": "Daftar Majalah",
+            "back": "Kembali"
+        },
+        "author": {
+            "sectionLatestPosts": "Postingan Terbaru"
+        },
+        "category": {
+            "sectionPostsCategory": "Kategori Postingan"
+        },
+        "aside": {
+            "sectionPopularPosts": "Postingan Populer"
+        },
+        "common": {
+            "postBy": "Oleh",
+            "postIn": "di",
+            "postPublishedOn": "Diterbitkan pada"
+        }
+    },
+    "footer": {
+        "profileDescription": "Kami adalah lembaga filantropi profesional asal Indonesia yang bertujuan untuk mengangkat harkat dan martabat masyarakat miskin melalui penggalangan dana sosial dan juga dana tanggung jawab sosial perusahaan.",
+        "links": {
+            "headerServices": "Layanan Kami",
+            "zakatCalculator": "Zakat Kalculator",
+            "headerOtherInfo": "Informasi Lainnya",
+            "institutionalProfile": "Profil Lembaga",
+            "magazines": "E-book Majalah",
+            "fastingCalendar": "Kalender Puasa",
+            "moneyReport": "Laporan Keuangan",
+            "headerContactUs": "Hubungi Kami",
+            "address": "Jl. Barata Jaya XXII No.20 Surabaya - Jawa Timur"
+        }
+    }
+}

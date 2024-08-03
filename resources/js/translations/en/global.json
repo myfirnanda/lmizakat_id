@@ -1,0 +1,60 @@
+{
+    "header": {
+        "category": {
+            "news": "News",
+            "program": "Program",
+            "inspiration": "Inspiration",
+            "education": "Education",
+            "partner": "Partner",
+            "service": "Services"
+        },
+        "rightSide": {
+            "language": "Languages",
+            "searchLabel": "Search Posts",
+            "searchPlaceholder": "Click to search...",
+            "searchButton": "Search"
+        }
+    },
+    "main": {
+        "posts": {
+            "sectionFeaturedPosts": "Featured Posts",
+            "sectionTodayHighlight": "Today's Highlight",
+            "sectionLatestPosts": "Latest Posts"
+        },
+        "post": {
+            "sectionRelatedPosts": "Related Posts"
+        },
+        "magazines": {
+            "list": "Magazines List",
+            "back": "Go back"
+        },
+        "author": {
+            "sectionLatestPosts": "Latest Posts"
+        },
+        "category": {
+            "sectionPostsCategory": "Posts Category"
+        },
+        "aside": {
+            "sectionPopularPosts": "Popular Posts"
+        },
+        "common": {
+            "postBy": "By",
+            "postIn": "In",
+            "postPublishedOn": "Published On"
+        }
+    },
+    "footer": {
+        "profileDescription": "We are a professional philanthropic institution from Indonesia which aims to raise the dignity of the poor through collecting social funds and also corporate social responsibility funds.",
+        "links": {
+            "headerServices": "Our Services",
+            "zakatCalculator": "Zakat Calculator",
+            "headerOtherInfo": "Other Information",
+            "institutionalProfile": "Institutional Profile",
+            "magazines": "E-book Magazines",
+            "fastingCalendar": "Fasting Calendar",
+            "moneyReport": "Money Report",
+            "headerContactUs": "Contact Us",
+            "address": "Jl. Barata Jaya XXII No.20 Surabaya - East Java"
+        }
+    }
+}
